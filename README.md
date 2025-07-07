@@ -1,4 +1,4 @@
 # monascii
 
 Try to mint your first smart-contract-less NFT on Monad.
-https://www.monascii.xyz/
+https://www.monascii.fun/
